@@ -1,2 +1,2 @@
 # hello-world
-this is a sccond test
+this is a second test
